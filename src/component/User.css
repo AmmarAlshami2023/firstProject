@@ -1,0 +1,21 @@
+.AddUser{
+    margin-left: 70px;
+    margin-top:20px;
+    position: relative;
+    background-color: aliceblue;
+    padding: 15px;
+    width: 700px;
+    border-radius: 25px;
+}
+.Texts{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.butten{
+    color: white;
+    background-color: blueviolet;
+    border: 0;
+    width: 90px;
+    height: 20px;
+}
